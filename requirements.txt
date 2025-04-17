@@ -1,0 +1,7 @@
+pycaret==3.3.2
+streamlit==1.37.1
+neuralprophet==1.0.0rc9
+Riskfolio-Lib==6.1.1
+QuantStats==0.0.62
+yfinance==0.2.41
+streamlit-pandas-profiling==0.1.3
